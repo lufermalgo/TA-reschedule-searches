@@ -1,0 +1,4 @@
+<nav search_view="inputs" color="#65A637">
+<view name="inputs" default="true" />
+<view name="configuration"/>
+</nav>
